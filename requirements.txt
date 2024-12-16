@@ -1,0 +1,10 @@
+﻿faiss-cpu
+google-ai-generativelanguage
+google-generativeai
+langchain
+langchain-community
+PyPDF2
+scikit-learn
+sentence-transformers
+spacy
+streamlit
